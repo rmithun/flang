@@ -19,7 +19,7 @@ Sample flask app to check language profanity
 3. The application used Sqlite as DB and there is not differntiation between dev db and test DB
 
 
-# Must to Improvements
+# Must to do Improvements
 
 1. Set up test Sqllite DB for separating DB's
 2. Improve unit tests to check for the inserted data in DB
