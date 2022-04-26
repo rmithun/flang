@@ -9,7 +9,7 @@ Sample flask app to check language profanity
 3. Run flask server: flak run
 4. Use postman to make requests to add comments:
 	ex: {'paragraphs':"This is a sample \n This is a sample"}
-
+5. Run unittest as python -m unittest tests.py
 
 ## Things to consider:
 
